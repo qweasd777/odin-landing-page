@@ -10,10 +10,10 @@ The main objective is for us to familiarise ourselves in developing a webpage fr
 
 ## Screenshots
 
-** Full Design Layout **
+**Full Design Layout**
 ![Landing page example](/template/01-full-design-layout.png)
 
-** Final Product **
+**Final Product**
 
 ## Links
 
