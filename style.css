@@ -41,6 +41,7 @@ ul {
     justify-content: space-between;
     align-items: center;
     max-width: 1100px;  
+    padding: 0 20px;
 }
 
 .header .right-links {
@@ -71,7 +72,7 @@ ul {
     justify-content: center;
     align-items: center;
     max-width: 1100px;  
-    padding: 50px 0 100px;
+    padding: 50px 20px 100px;
 }
 
 .sect {
@@ -84,7 +85,7 @@ ul {
 }
 
 .sect.hero .left-content {    
-    max-width: 450px;   
+    max-width: 600px;   
 }
 
 button {
@@ -99,19 +100,22 @@ button {
 }
 
 #hero-btn {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .sect.hero .right-content img {
-    max-width: 450px;
+    max-width: 420px;
     height: auto;
+    border-radius: 10px;
 }
 
 .sect.hero .main {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
+    margin-bottom: 20px;
 }
+
 
 .sect.info .wrapper {
     flex-direction: column;
@@ -129,7 +133,7 @@ button {
 .sect.info .info-content {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 100px;
 
 }
 
@@ -175,7 +179,7 @@ button {
 }
 
 .sect.quote .wrapper, .sect.signup-banner .wrapper {
-    padding: 100px 0;
+    padding: 100px 20px;
 }
 
 .sect.signup-banner .box {
