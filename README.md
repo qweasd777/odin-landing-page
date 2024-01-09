@@ -1,12 +1,6 @@
 # Odin Landing Page
 
-A simple landing page made from scratch using flexbox and basic CSS techniques, in accordance to [design layout](https://github.com/qweasd777/odin-landing-page/?tab=readme-ov-file#screenshots) given. 
-
-## About
-
-My first landing page project following The Odin Project's (TOP) Foundations Course. 
-
-The main objective is for us to familiarise ourselves in developing a webpage from scratch with CSS techniques learnt so far. The only constraints were to get the landing page to look similar to the [design layout](https://github.com/qweasd777/odin-landing-page/?tab=readme-ov-file#screenshots) given.
+A simple landing page made from scratch to familiriase the use of flexbox and basic CSS techniques, in accordance to [design layout](https://github.com/qweasd777/odin-landing-page/?tab=readme-ov-file#screenshots) given. 
 
 ## Screenshots
 
