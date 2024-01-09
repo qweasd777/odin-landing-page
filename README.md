@@ -4,10 +4,11 @@ A simple landing page made from scratch to familiriase the use of flexbox and ba
 
 ## Screenshots
 
-**Full Design Layout**
+**Actual Design Layout**
 ![Landing page example](/template/01-full-design-layout.png)
 
 **Final Product**
+![Landing page final product](/template/final_product.png)
 
 ## Links
 
